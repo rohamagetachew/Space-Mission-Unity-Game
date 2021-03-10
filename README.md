@@ -8,7 +8,4 @@ If you want to play this game, click on the ZipFile in Main Branch
  If you own a MAC and cannot open the file due to security reasons, then go to System Preferences -> Security and Privacy and you should be able to open the game from there using the open anyways button
  
 # Windows
-Double-click on the zip file. It will unzip automatically. ...
-Right-click on the Mac-created zip file to unzip the files in a different location.
-Select "Extract All" from the menu that pops up and choose the location on your PC where you want to send the unzipped files. Click "OK."
-
+If you own a windows, then just downlaod the windwos folder to play the games
